@@ -1,2 +1,2 @@
-# nokia-clone
-Front-end clone of Nokia website
+# Nokia-clone
+Front-end clone of Nokia website using Materialize CSS
